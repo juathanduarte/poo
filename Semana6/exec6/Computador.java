@@ -13,7 +13,7 @@ public class Computador extends ItemMontado {
 			if (item.toString().equals("Placa de Memória") ||
 				item.toString().equals("Processador") ||
 				item.toString().equals("Computador")) {
-				System.out.println("Uma placa de memória, um processador e um computador n�o podem fazer parte de um computador.");
+				System.out.println("Uma placa de memória, um processador e um computador não podem fazer parte de um computador.");
 				return;
 			}
 			this.conjItens[this.index] = item;

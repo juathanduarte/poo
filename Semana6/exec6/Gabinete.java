@@ -18,7 +18,7 @@ public class Gabinete extends ItemMontado {
 				System.out.println(item.toString() + " adicionado.");
 				return;
 			}
-			System.out.println("Um gabinete só pode ser montado por placas de mem�ria e processadores.");
+			System.out.println("Um gabinete só pode ser montado por placas de memória e processadores.");
 			return;
 		} 
 		
