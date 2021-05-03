@@ -1,0 +1,1 @@
+O método inverte faz a inversão do vetor, porém, como ele é do tipo void não é teronado o vetor alterado.
